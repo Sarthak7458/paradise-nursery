@@ -1,1 +1,2 @@
-export { default } from "./components/ProductList";
+import ProductList from "./components/ProductList";
+export default ProductList;

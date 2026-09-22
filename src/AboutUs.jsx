@@ -1,1 +1,2 @@
-export { default } from "./components/AboutUs";
+import AboutUs from "./components/AboutUs";
+export default AboutUs;
